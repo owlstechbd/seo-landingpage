@@ -248,7 +248,9 @@ body {
 .text-center {
     text-align: center;
 }
-
+{
+    display: none;
+}
 .post-content-bg {
     margin: 50px 0;
     background: linear-gradient(90deg, rgba(0, 0, 0, .7) 0%, rgba(0, 0, 0, .7) 31%), url("../images/seo/seo-4.jpeg") center center fixed;
